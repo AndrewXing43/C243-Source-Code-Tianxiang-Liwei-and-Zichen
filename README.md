@@ -1,0 +1,1 @@
+These files include all modified configurations to get the best val PER performance (0.182). All other files are unchanged compared with baseline. No extra preprocessing are conducted, and no changes are applied on the model architecture.
